@@ -1,0 +1,19 @@
+C:\Users\ESTUDIANTES\Downloads\Compra de 100 unidades\Compra de 100 unidades\bin\Debug\Compra de 100 unidades.exe.config
+C:\Users\ESTUDIANTES\Downloads\Compra de 100 unidades\Compra de 100 unidades\bin\Debug\Compra de 100 unidades.exe
+C:\Users\ESTUDIANTES\Downloads\Compra de 100 unidades\Compra de 100 unidades\bin\Debug\Compra de 100 unidades.pdb
+C:\Users\ESTUDIANTES\Downloads\Compra de 100 unidades\Compra de 100 unidades\obj\Debug\Compra de 100 unidades.csprojResolveAssemblyReference.cache
+C:\Users\ESTUDIANTES\Downloads\Compra de 100 unidades\Compra de 100 unidades\obj\Debug\Compra_de_100_unidades.Compras.resources
+C:\Users\ESTUDIANTES\Downloads\Compra de 100 unidades\Compra de 100 unidades\obj\Debug\Compra_de_100_unidades.Properties.Resources.resources
+C:\Users\ESTUDIANTES\Downloads\Compra de 100 unidades\Compra de 100 unidades\obj\Debug\Compra de 100 unidades.csproj.GenerateResource.Cache
+C:\Users\ESTUDIANTES\Downloads\Compra de 100 unidades\Compra de 100 unidades\obj\Debug\Compra de 100 unidades.exe
+C:\Users\ESTUDIANTES\Downloads\Compra de 100 unidades\Compra de 100 unidades\obj\Debug\Compra de 100 unidades.pdb
+E:\Compra de 100 unidades\Compra de 100 unidades\bin\Debug\Compra de 100 unidades.exe.config
+E:\Compra de 100 unidades\Compra de 100 unidades\bin\Debug\Compra de 100 unidades.exe
+E:\Compra de 100 unidades\Compra de 100 unidades\bin\Debug\Compra de 100 unidades.pdb
+E:\Compra de 100 unidades\Compra de 100 unidades\obj\Debug\Compra de 100 unidades.csprojAssemblyReference.cache
+E:\Compra de 100 unidades\Compra de 100 unidades\obj\Debug\Compra_de_100_unidades.Compras.resources
+E:\Compra de 100 unidades\Compra de 100 unidades\obj\Debug\Compra_de_100_unidades.Properties.Resources.resources
+E:\Compra de 100 unidades\Compra de 100 unidades\obj\Debug\Compra de 100 unidades.csproj.GenerateResource.cache
+E:\Compra de 100 unidades\Compra de 100 unidades\obj\Debug\Compra de 100 unidades.csproj.CoreCompileInputs.cache
+E:\Compra de 100 unidades\Compra de 100 unidades\obj\Debug\Compra de 100 unidades.exe
+E:\Compra de 100 unidades\Compra de 100 unidades\obj\Debug\Compra de 100 unidades.pdb
